@@ -13,8 +13,24 @@ Ziel ist der Aufbau einer skalierbaren Analytics‑Plattform, die zentrale Gesch
   - Wie hängen Lieferzeiten mit Kundenzufriedenheit zusammen
 
 Der Fokus liegt auf Datenqualität, Modellierung, Automatisierung und Visualisierung.
-  
 
+## Business‑Fragen 
+Damit dein Projekt nicht nur technisch, sondern auch “business‑relevant” wirkt, definieren wir 4–6 klare Fragen:
+
+  ### Verkauf & Umsatz
+    - Wie entwickeln sich Umsatz und Bestellvolumen über die Zeit?
+    - Welche Produktkategorien und Verkäufer performen am besten?
+  
+  ### Logistik & Lieferung
+    - Wie lange dauert die Lieferung im Durchschnitt?
+    - Wie hoch ist der Anteil verspäteter Lieferungen (gegenüber dem geschätzten Lieferdatum)?
+    - Gibt es regionale Unterschiede in der Lieferperformance?
+  
+  ### Kundenzufriedenheit
+  
+    - Wie verteilen sich die Review‑Scores?
+    - Wie stark hängen Lieferverzögerungen mit schlechten Bewertungen zusammen?
+  
 ## Architektur (Microsoft Fabric)
 Das Projekt nutzt folgende Fabric‑Komponenten:
 
