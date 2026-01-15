@@ -95,9 +95,16 @@ Dieses Projekt zeigt die Fähigkeiten in:
 
   - Datenmodellierung & Data Engineering
   - Fabric‑Architektur & Cloud‑Analytics
+  - ETL/ELT-Prozesse
+  - Datenpipeline-Orchestrierung
   - Automatisierung & Pipelines
   - Business‑orientierter Analyse
-  - Power BI Reporting
-  - Kommunikation komplexer Daten in verständlicher Form
+  - Power BI Reporting (Business Intelligence)
+  - Machine Learning-Integration
+
+
+
+
+
 
 
